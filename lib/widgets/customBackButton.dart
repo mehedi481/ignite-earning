@@ -1,4 +1,5 @@
 import 'package:flutter/cupertino.dart';
+import 'package:ignite_earning/const/icons.dart';
 
 Widget customBackButton({@required onPressed}) {
   return GestureDetector(
@@ -22,7 +23,7 @@ Widget customBackButton({@required onPressed}) {
         ),
         child: Center(
           child: Image.asset(
-            "assets/backArraw.png",
+            MyIcons.bakcArraw,
             height: 14,
             width: 16,
           ),

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ignite_earning/const/colors.dart';
+import 'package:ignite_earning/const/icons.dart';
 import 'package:ignite_earning/widgets/customButton.dart';
 import 'package:get/get.dart';
 
@@ -20,7 +21,7 @@ class FirstPage extends StatelessWidget {
                     height: 200,
                     width: 290,
                     child: Image.asset(
-                      "assets/img1.png",
+                      MyIcons.img1,
                       fit: BoxFit.cover,
                     ),
                   ),

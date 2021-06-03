@@ -7,7 +7,7 @@ class MyDrawer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Drawer(
-      child: SafeArea(child: Text("Navbar")),
+      child: SafeArea(child: Text("Navbar")),      
     );
   }
 }
