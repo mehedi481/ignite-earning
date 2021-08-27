@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:ignite_earning/const/colors.dart';
-import 'package:ignite_earning/const/icons.dart';
+import 'package:ignite_earning/const/iconPath.dart';
 import 'package:ignite_earning/widgets/customBackButton.dart';
 import 'package:ignite_earning/widgets/customButton.dart';
 

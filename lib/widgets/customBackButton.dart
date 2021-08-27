@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:ignite_earning/const/icons.dart';
+import 'package:ignite_earning/const/iconPath.dart';
 
 Widget customBackButton({@required onPressed}) {
   return GestureDetector(

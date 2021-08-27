@@ -14,8 +14,10 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Ignite Earning',
       theme: ThemeData(
+        backgroundColor: Colors.white,
         primarySwatch: Colors.blue,
         fontFamily: 'Tahoma'
+        
       ),
       initialRoute: Routes.INITIAL,
       getPages: AppPages.pages,
